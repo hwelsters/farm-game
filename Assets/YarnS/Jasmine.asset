@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7ffe0041a4c8f646a6c6fd439a9ba9c, type: 3}
+  m_Name: Jasmine
+  m_EditorClassIdentifier: 
+  speakerName: Jasmine
+  NPCPortraits:
+  - {fileID: 992814827240603976, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}
+  - {fileID: 8194372266359810374, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}
+  - {fileID: 8197042903527293437, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}
+  - {fileID: 392355570786934985, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}
+  - {fileID: -8044664665642465839, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}
+  - {fileID: -5017046964525154853, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}
+  - {fileID: -1459583853956762523, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}
+  - {fileID: 6926949785977387137, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}
+  - {fileID: -64833639136387508, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}
+  - {fileID: 2930928916284683751, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}
+  - {fileID: 4457667145911487382, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}
+  - {fileID: 6376780168173180903, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}
+  - {fileID: 5452388302198441143, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}
+  - {fileID: -4391728674846824491, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}
+  - {fileID: -576354126410759587, guid: e472f5aaea15a52409c7c558b124d1fe, type: 3}

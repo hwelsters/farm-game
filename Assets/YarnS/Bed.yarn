@@ -1,0 +1,24 @@
+title: Sleep
+tags: 
+colorID: 0
+position: 536,207
+---
+<<SetSpeaker Bed>>
+Sleep?
+[[Yes|GoToSleep]]
+[[No|Awake]]
+===
+title: Awake
+tags: 
+colorID: 0
+position: 222,4
+---
+
+===
+title: GoToSleep
+tags: 
+colorID: 0
+position: 656,-13
+---
+<<Sleep>>
+===

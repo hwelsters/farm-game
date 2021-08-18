@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ItemTable
+  - DayCycle
+  - ToolAnimator
+  - WateredTilemap
+  - Debris
+  - TileAim
+  - FarmManager
+  - MoneyDisplay
+  - ItemBin
+  - PlowedTilemap
+  - Backpack
+  - Plants
+  - Sprinklers
+  - Mines
+  - MineRoom
+  - Fade
+  - DialogManager
+  - FishableArea
+  - DialogImage
+  - DialogName
+  - Well
+  - NightLight
+  - NPC
+  - Fertilizer
+  - Bobber
+  - Shop Bar
+  - LeaveMines
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Hittable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2689292181
+    locked: 0
+  - name: GroundCover
+    uniqueID: 833182981
+    locked: 0
+  - name: Shadow
+    uniqueID: 2358349163
+    locked: 0
+  - name: Plants
+    uniqueID: 3767743979
+    locked: 0
+  - name: Fence
+    uniqueID: 4198577275
+    locked: 0
+  - name: Item
+    uniqueID: 1282088535
+    locked: 0
+  - name: Wall
+    uniqueID: 2556351741
+    locked: 0
+  - name: Unit
+    uniqueID: 152243259
+    locked: 0
+  - name: Roof
+    uniqueID: 1927681805
+    locked: 0
+  - name: Above Roof
+    uniqueID: 2738290529
+    locked: 0

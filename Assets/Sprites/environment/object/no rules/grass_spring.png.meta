@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: 21cb8bdf734c19045b4d5bdaa7d8ed1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3512650133049394198
+    second: grass_spring_0
+  - first:
+      213: -5601540385348828319
+    second: grass_spring_1
+  - first:
+      213: 1555834831579697030
+    second: grass_spring_2
+  - first:
+      213: 1792852798348758789
+    second: grass_spring_3
+  - first:
+      213: -8906279529506061713
+    second: grass_spring_4
+  - first:
+      213: -8979558216362564108
+    second: grass_spring_5
+  - first:
+      213: 4408873509078127821
+    second: grass_spring_6
+  - first:
+      213: -860727261885840029
+    second: grass_spring_7
+  - first:
+      213: 7281424081845261692
+    second: grass_spring_8
+  - first:
+      213: 1842629990364617948
+    second: grass_spring_9
+  - first:
+      213: 6055890052764927
+    second: grass_spring_10
+  - first:
+      213: -5870682102221907127
+    second: grass_spring_11
+  - first:
+      213: 43657588075359416
+    second: grass_spring_12
+  - first:
+      213: 9092720963331868317
+    second: grass_spring_13
+  - first:
+      213: -9103211242677515739
+    second: grass_spring_14
+  - first:
+      213: 1627480236898407667
+    second: grass_spring_15
+  - first:
+      213: 5759109220608308269
+    second: grass_spring_16
+  - first:
+      213: 4152582220716527381
+    second: grass_spring_17
+  - first:
+      213: -7857898602303440408
+    second: grass_spring_18
+  - first:
+      213: 889195602383171503
+    second: grass_spring_19
+  - first:
+      213: 8167828575900884861
+    second: grass_spring_20
+  - first:
+      213: 1926035744921174666
+    second: grass_spring_21
+  - first:
+      213: -2922001155936144678
+    second: grass_spring_22
+  - first:
+      213: -5600630546022697828
+    second: grass_spring_0
+  - first:
+      213: -6102380583855778540
+    second: grass_spring_1
+  - first:
+      213: 7045700084727295989
+    second: grass_spring_2
+  - first:
+      213: -3842941696601472835
+    second: grass_spring_3
+  - first:
+      213: -5161922956830308895
+    second: grass_spring_4
+  - first:
+      213: -4986569474377330330
+    second: grass_spring_5
+  - first:
+      213: 7813096702688994969
+    second: grass_spring_6
+  - first:
+      213: 7149473811340947367
+    second: grass_spring_7
+  - first:
+      213: -1896881643510850743
+    second: grass_spring_8
+  - first:
+      213: 6708039350871042120
+    second: grass_spring_9
+  - first:
+      213: -2323383322809856264
+    second: grass_spring_10
+  - first:
+      213: -8590940687878214988
+    second: grass_spring_11
+  - first:
+      213: -3407214531677295440
+    second: grass_spring_12
+  - first:
+      213: 7843795758802652630
+    second: grass_spring_13
+  - first:
+      213: -6402955843934067363
+    second: grass_spring_14
+  - first:
+      213: 6066918498481573112
+    second: grass_spring_15
+  - first:
+      213: -4568105894553798897
+    second: grass_spring_16
+  - first:
+      213: -358007711705735986
+    second: grass_spring_17
+  - first:
+      213: -4400007074751908026
+    second: grass_spring_18
+  - first:
+      213: 3299436569935045859
+    second: grass_spring_19
+  - first:
+      213: 2157807097858603988
+    second: grass_spring_20
+  - first:
+      213: 1970008022057959826
+    second: grass_spring_21
+  - first:
+      213: -5731464070789827754
+    second: grass_spring_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 23
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grass_spring_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c947d1a11309642b0800000000000000
+      internalID: -5600630546022697828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4151907d03dff4ba0800000000000000
+      internalID: -6102380583855778540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff2c18b5ea57c160800000000000000
+      internalID: 7045700084727295989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0488143e02baac0800000000000000
+      internalID: -3842941696601472835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e502387b6a2d58b0800000000000000
+      internalID: -5161922956830308895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661dee7ab752ccab0800000000000000
+      internalID: -4986569474377330330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996ad873e02bd6c60800000000000000
+      internalID: 7813096702688994969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af6fe74d88083360800000000000000
+      internalID: 7149473811340947367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b9391023ceca5e0800000000000000
+      internalID: -1896881643510850743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848a208bf3eb71d50800000000000000
+      internalID: 6708039350871042120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe0ade7d2fa1cfd0800000000000000
+      internalID: -2323383322809856264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baa19c06f8d6c880800000000000000
+      internalID: -8590940687878214988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc63d58f6427b0d0800000000000000
+      internalID: -3407214531677295440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddc5263fa2cadc60800000000000000
+      internalID: 7843795758802652630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d556cc195912427a0800000000000000
+      internalID: -6402955843934067363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc8d3ffa36023450800000000000000
+      internalID: 6066918498481573112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07b0ca44e3da90c0800000000000000
+      internalID: -4568105894553798897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccddec02e9180bf0800000000000000
+      internalID: -358007711705735986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647f434b0e800f2c0800000000000000
+      internalID: -4400007074751908026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e469e54414f9cd20800000000000000
+      internalID: 3299436569935045859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbbda97f1212fd10800000000000000
+      internalID: 2157807097858603988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2914f67cbdfd65b10800000000000000
+      internalID: 1970008022057959826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_spring_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65378a15bcfb570b0800000000000000
+      internalID: -5731464070789827754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

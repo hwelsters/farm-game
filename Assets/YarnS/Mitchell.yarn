@@ -1,0 +1,130 @@
+title: Mitchell.Introduction
+tags: 
+colorID: 0
+position: 228,216
+---
+<<SetSpeaker Mitchell>> 
+Oh hey! You're new here! Name's Mitchell
+===
+title: Mitchell.Spring.Dialog.1
+tags: 
+colorID: 0
+position: 459,214
+---
+<<SetSpeaker Mitchell>> 
+Spring's really nice don't you think?
+<<SetSpeaker Mitchell>> 
+It's not too cold and not too hot
+===
+title: Mitchell.Spring.Dialog.2
+tags: 
+colorID: 0
+position: 462,425
+---
+<<SetSpeaker Mitchell>> 
+Oh hey!
+Did you need something?
+===
+title: Mitchell.Spring.Dialog.3
+tags: 
+colorID: 0
+position: 461,650
+---
+<<SetSpeaker Mitchell >>
+Farming is tiring huh?
+I thought about being a farmer once
+But doing the same thing everyday seems too boring to me
+===
+title: Mitchell.Spring.Dialog.4
+tags: 
+colorID: 0
+position: 706,217
+---
+<<SetSpeaker Mitchell>> 
+Hello!
+How's it goin'?
+===
+title: Mitchell.Spring.Dialog.5
+tags: 
+colorID: 0
+position: 706,426
+---
+<<SetSpeaker Mitchell>> 
+Oh hey!
+Take it easy
+===
+title: Mitchell.Spring.Dialog.6
+tags: 
+colorID: 0
+position: 721,637
+---
+<<SetSpeaker Mitchell>>
+I ate a large breakfast today!
+<<SetSpeaker Mitchell pleased>> 
+It tasted really good
+===
+title: Mitchell.Spring.Dialog.7
+tags: 
+colorID: 0
+position: 937,215
+---
+<<SetSpeaker Mitchell>>
+You were looking for me?
+===
+title: Mitchell.Spring.Dialog.8
+tags: 
+colorID: 0
+position: 932,415
+---
+<<SetSpeaker Mitchell>> 
+It's really hot today!
+I could totally use a cold drink
+===
+title: Mitchell.Spring.Dialog.9
+tags: 
+colorID: 0
+position: 945,637
+---
+<<SetSpeaker Mitchell>> 
+What's up?
+===
+title: Mitchell.Love
+tags: 
+colorID: 0
+position: 1176,223
+---
+<<SetSpeaker Mitchell happy>>
+UwU
+===
+title: Mitchell.Like
+tags: 
+colorID: 0
+position: 1407,224
+---
+<<SetSpeaker Mitchell smile>>
+Thanks! I really appreciate this!
+===
+title: Mitchell.Neutral
+tags: 
+colorID: 0
+position: 1184,434
+---
+<<SetSpeaker Mitchell suspicious>>
+This is cool, thanks!
+===
+title: Mitchell.Dislike
+tags: 
+colorID: 0
+position: 1404,430
+---
+<<SetSpeaker Mitchell awkward>>
+I guess I can...decorate my trash can?
+===
+title: Mitchell.Hate
+tags: 
+colorID: 0
+position: 1644,221
+---
+<<SetSpeaker Mitchell suspicious>>
+...
+===

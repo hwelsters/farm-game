@@ -1,0 +1,4592 @@
+fileFormatVersion: 2
+guid: d063dea3a2ffd394dbfefe1680f93b88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1903562096398736305
+    second: flower mines_0
+  - first:
+      213: 7244001064479263532
+    second: flower mines_1
+  - first:
+      213: 6398997197915096728
+    second: flower mines_2
+  - first:
+      213: -7149366708402066692
+    second: flower mines_3
+  - first:
+      213: -6021041824390969735
+    second: flower mines_4
+  - first:
+      213: -6176714800345745721
+    second: flower mines_5
+  - first:
+      213: -195599023101268247
+    second: flower mines_6
+  - first:
+      213: -3832849895625260184
+    second: flower mines_7
+  - first:
+      213: -5933215096909073714
+    second: flower mines_8
+  - first:
+      213: -3514507212405534917
+    second: flower mines_9
+  - first:
+      213: -1896055832370033220
+    second: flower mines_10
+  - first:
+      213: 2215802907448119299
+    second: flower mines_11
+  - first:
+      213: 5760377661072525563
+    second: flower mines_12
+  - first:
+      213: -8381611870173250620
+    second: flower mines_13
+  - first:
+      213: 1688687264577245835
+    second: flower mines_14
+  - first:
+      213: -4120308207335579934
+    second: flower mines_15
+  - first:
+      213: -99685160192823280
+    second: flower mines_16
+  - first:
+      213: 3794772529589720489
+    second: flower mines_17
+  - first:
+      213: -5336878935021197266
+    second: flower mines_18
+  - first:
+      213: -6746021588034104020
+    second: flower mines_19
+  - first:
+      213: -2221193105850829528
+    second: flower mines_20
+  - first:
+      213: -6807503272160348064
+    second: flower mines_21
+  - first:
+      213: -8190374581411020740
+    second: flower mines_22
+  - first:
+      213: -8981892301425185888
+    second: flower mines_23
+  - first:
+      213: 7012793327372968302
+    second: flower mines_24
+  - first:
+      213: -5661841920238620967
+    second: flower mines_25
+  - first:
+      213: -1961310853566614074
+    second: flower mines_26
+  - first:
+      213: -9186043054725733939
+    second: flower mines_27
+  - first:
+      213: 4862165539302683799
+    second: flower mines_28
+  - first:
+      213: 8077477917386804844
+    second: flower mines_29
+  - first:
+      213: 7613541880686954684
+    second: flower mines_30
+  - first:
+      213: -6964386006280065029
+    second: flower mines_31
+  - first:
+      213: -8865398083461196243
+    second: flower mines_32
+  - first:
+      213: -4643628746238836775
+    second: flower mines_33
+  - first:
+      213: -1853225066151239327
+    second: flower mines_34
+  - first:
+      213: -5674179122298076025
+    second: flower mines_35
+  - first:
+      213: 700608896875866082
+    second: flower mines_36
+  - first:
+      213: 56175548617467148
+    second: flower mines_37
+  - first:
+      213: 1864099686021477781
+    second: flower mines_38
+  - first:
+      213: 1575432461433975934
+    second: flower mines_39
+  - first:
+      213: 6406929115710914726
+    second: flower mines_40
+  - first:
+      213: 1608870226715426430
+    second: flower mines_41
+  - first:
+      213: -8301387077829903341
+    second: flower mines_42
+  - first:
+      213: -5872243567556292067
+    second: flower mines_43
+  - first:
+      213: -6730901725910536437
+    second: flower mines_44
+  - first:
+      213: 4373825832288190560
+    second: flower mines_45
+  - first:
+      213: 6664405264830827245
+    second: flower mines_46
+  - first:
+      213: 1085970916266291463
+    second: flower mines_47
+  - first:
+      213: -5021134142112351342
+    second: flower mines_48
+  - first:
+      213: -5258874096491919900
+    second: flower mines_49
+  - first:
+      213: 944289714754300535
+    second: flower mines_50
+  - first:
+      213: 1396516003729215354
+    second: flower mines_51
+  - first:
+      213: 529998132216626225
+    second: flower mines_52
+  - first:
+      213: 3698127284304382058
+    second: flower mines_53
+  - first:
+      213: 2193362964935190706
+    second: flower mines_54
+  - first:
+      213: 8860994545238636009
+    second: flower mines_55
+  - first:
+      213: 1292456109001809778
+    second: flower mines_56
+  - first:
+      213: -5024113869795576958
+    second: flower mines_57
+  - first:
+      213: -5747574750176399829
+    second: flower mines_58
+  - first:
+      213: 3994757823270695683
+    second: flower mines_59
+  - first:
+      213: -8925576889681831549
+    second: flower mines_60
+  - first:
+      213: -1320300157153295453
+    second: flower mines_61
+  - first:
+      213: -4989926774454502420
+    second: flower mines_62
+  - first:
+      213: 6372914966451479364
+    second: flower mines_63
+  - first:
+      213: -5589846312759353497
+    second: flower mines_64
+  - first:
+      213: 4271813947938873735
+    second: flower mines_65
+  - first:
+      213: -2467715315541207177
+    second: flower mines_66
+  - first:
+      213: -970340663383825867
+    second: flower mines_67
+  - first:
+      213: -7051491302113311423
+    second: flower mines_68
+  - first:
+      213: -4861475954113248140
+    second: flower mines_69
+  - first:
+      213: -6012030346682731826
+    second: flower mines_70
+  - first:
+      213: 1106669420332844601
+    second: flower mines_71
+  - first:
+      213: -3398813149407871753
+    second: flower mines_72
+  - first:
+      213: 7979904417652242545
+    second: flower mines_73
+  - first:
+      213: -7657070343320755720
+    second: flower mines_74
+  - first:
+      213: 2685004552854174809
+    second: flower mines_75
+  - first:
+      213: 4029476000151589611
+    second: flower mines_76
+  - first:
+      213: 1467944643426072404
+    second: flower mines_77
+  - first:
+      213: -1673528824836232629
+    second: flower mines_78
+  - first:
+      213: 6498491107928554172
+    second: flower mines_79
+  - first:
+      213: 46806715100952651
+    second: flower mines_80
+  - first:
+      213: 3399818013510455844
+    second: flower mines_81
+  - first:
+      213: -8515968105853205120
+    second: flower mines_82
+  - first:
+      213: 3421141166466552932
+    second: flower mines_83
+  - first:
+      213: 1679949384438687448
+    second: flower mines_84
+  - first:
+      213: -8191717946322545469
+    second: flower mines_85
+  - first:
+      213: 8006038645533786790
+    second: flower mines_86
+  - first:
+      213: 4753450760136748483
+    second: flower mines_87
+  - first:
+      213: -4182957883372079271
+    second: flower mines_88
+  - first:
+      213: 7789432836713882123
+    second: flower mines_89
+  - first:
+      213: 1654730763609588160
+    second: flower mines_90
+  - first:
+      213: 8991731993836513102
+    second: flower mines_91
+  - first:
+      213: -2284057247011974098
+    second: flower mines_92
+  - first:
+      213: 2737422640004319953
+    second: flower mines_93
+  - first:
+      213: 1330349533359018607
+    second: flower mines_94
+  - first:
+      213: -3222186739754074078
+    second: flower mines_95
+  - first:
+      213: -7504294414781597538
+    second: flower mines_96
+  - first:
+      213: 769039160986307475
+    second: flower mines_97
+  - first:
+      213: -3141807661114980464
+    second: flower mines_98
+  - first:
+      213: -7723798715200185878
+    second: flower mines_99
+  - first:
+      213: 6737433465041283707
+    second: flower mines_100
+  - first:
+      213: 5766166983412082042
+    second: flower mines_101
+  - first:
+      213: 5875470205787248742
+    second: flower mines_102
+  - first:
+      213: -4279676581421004059
+    second: flower mines_103
+  - first:
+      213: 9037576547611605395
+    second: flower mines_104
+  - first:
+      213: -8765035706285823287
+    second: flower mines_105
+  - first:
+      213: -8608514361370882037
+    second: flower mines_106
+  - first:
+      213: 4532514588785530137
+    second: flower mines_107
+  - first:
+      213: -9217268550186184024
+    second: flower mines_108
+  - first:
+      213: 7392499737180172956
+    second: flower mines_109
+  - first:
+      213: 4367482092243952901
+    second: flower mines_110
+  - first:
+      213: 4986641324535238505
+    second: flower mines_111
+  - first:
+      213: 7363092652285309222
+    second: flower mines_112
+  - first:
+      213: 828752070546995438
+    second: flower mines_113
+  - first:
+      213: 8427497477149320112
+    second: flower mines_114
+  - first:
+      213: -3760849318707390357
+    second: flower mines_115
+  - first:
+      213: -2491517315150554272
+    second: flower mines_116
+  - first:
+      213: -1606917923417556903
+    second: flower mines_117
+  - first:
+      213: -5603372104151680104
+    second: flower mines_118
+  - first:
+      213: -8742440918116788536
+    second: flower mines_119
+  - first:
+      213: 5701009993391479763
+    second: flower mines_120
+  - first:
+      213: -5295132339653484677
+    second: flower mines_121
+  - first:
+      213: -9089105319512166459
+    second: flower mines_122
+  - first:
+      213: -862609481450365535
+    second: flower mines_123
+  - first:
+      213: -1814669182507850436
+    second: flower mines_124
+  - first:
+      213: -5239901849192153494
+    second: flower mines_125
+  - first:
+      213: 891537920376850648
+    second: flower mines_126
+  - first:
+      213: 1160775356885759259
+    second: flower mines_127
+  - first:
+      213: -3479915905432065433
+    second: flower mines_128
+  - first:
+      213: 8565294633007812819
+    second: flower mines_129
+  - first:
+      213: -4213175977120617971
+    second: flower mines_130
+  - first:
+      213: 7378670750584799946
+    second: flower mines_131
+  - first:
+      213: -2183514009511680957
+    second: flower mines_132
+  - first:
+      213: -1541908489978683417
+    second: flower mines_133
+  - first:
+      213: -6237683126787056603
+    second: flower mines_134
+  - first:
+      213: 3209489648479164813
+    second: flower mines_135
+  - first:
+      213: -252499361150911171
+    second: flower mines_136
+  - first:
+      213: 1810358349497604789
+    second: flower mines_137
+  - first:
+      213: 8178116031687910444
+    second: flower mines_138
+  - first:
+      213: 3850070816855834216
+    second: flower mines_139
+  - first:
+      213: -3315682747045541815
+    second: flower mines_140
+  - first:
+      213: 74027950153634273
+    second: flower mines_141
+  - first:
+      213: -6541691921797055849
+    second: flower mines_142
+  - first:
+      213: 7242275012903265635
+    second: flower mines_143
+  - first:
+      213: -770880265943908759
+    second: flower mines_144
+  - first:
+      213: 3784643136992758159
+    second: flower mines_145
+  - first:
+      213: 4223611552262361923
+    second: flower mines_146
+  - first:
+      213: 670796052675507924
+    second: flower mines_147
+  - first:
+      213: -6896210977772358035
+    second: flower mines_148
+  - first:
+      213: -4073726693920185991
+    second: flower mines_149
+  - first:
+      213: 3505929386391453411
+    second: flower mines_150
+  - first:
+      213: -3894017107065839472
+    second: flower mines_151
+  - first:
+      213: -2539416420611765008
+    second: flower mines_152
+  - first:
+      213: -5788264368017597772
+    second: flower mines_153
+  - first:
+      213: 4313712467394990190
+    second: flower mines_154
+  - first:
+      213: -760036974814700287
+    second: flower mines_155
+  - first:
+      213: 3070194624833485453
+    second: flower mines_156
+  - first:
+      213: -4966296200014855644
+    second: flower mines_157
+  - first:
+      213: 6451066589268965973
+    second: flower mines_158
+  - first:
+      213: -2627571030180081228
+    second: flower mines_159
+  - first:
+      213: -5320620305829998698
+    second: flower mines_160
+  - first:
+      213: -5314389839375075585
+    second: flower mines_161
+  - first:
+      213: -4503233277383004848
+    second: flower mines_162
+  - first:
+      213: -3979459924607915069
+    second: flower mines_163
+  - first:
+      213: 1142985962463335593
+    second: flower mines_164
+  - first:
+      213: 7649236625108875354
+    second: flower mines_165
+  - first:
+      213: -7222156512984443234
+    second: flower mines_166
+  - first:
+      213: -2731167187646758568
+    second: flower mines_167
+  - first:
+      213: -8488765606092069591
+    second: flower mines_168
+  - first:
+      213: 7444023860723302472
+    second: flower mines_169
+  - first:
+      213: 6252293210073311557
+    second: flower mines_170
+  - first:
+      213: -2027196004766213020
+    second: flower mines_171
+  - first:
+      213: 3868089004786236820
+    second: flower mines_172
+  - first:
+      213: -2743732204123757681
+    second: flower mines_173
+  - first:
+      213: 2643050324975747723
+    second: flower mines_174
+  - first:
+      213: -4529189954232579467
+    second: flower mines_175
+  - first:
+      213: -8913361883584794437
+    second: flower mines_176
+  - first:
+      213: 6248063422773685422
+    second: flower mines_177
+  - first:
+      213: 3961299025106820831
+    second: flower mines_178
+  - first:
+      213: -5818054953646888416
+    second: flower mines_179
+  - first:
+      213: 6779620666029519648
+    second: flower mines_180
+  - first:
+      213: 1245889553130341727
+    second: flower mines_181
+  - first:
+      213: -4415760655651596244
+    second: flower mines_182
+  - first:
+      213: -6840266904002963292
+    second: flower mines_183
+  - first:
+      213: -2108622992204755998
+    second: flower mines_184
+  - first:
+      213: 5313697960024843384
+    second: flower mines_185
+  - first:
+      213: -7082212169030093955
+    second: flower mines_186
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 23
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flower mines_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb9eb324afca6a10800000000000000
+      internalID: 1903562096398736305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 299
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b86d8769cd78460800000000000000
+      internalID: 7244001064479263532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 299
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89603745c0ecdc850800000000000000
+      internalID: 6398997197915096728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 299
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfae0b09bd858cc90800000000000000
+      internalID: -7149366708402066692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 299
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976086f8c56f07ca0800000000000000
+      internalID: -6021041824390969735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 299
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c67e7e5d96e74aa0800000000000000
+      internalID: -6176714800345745721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 299
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eea2ad89b7194df0800000000000000
+      internalID: -195599023101268247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 299
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8630dd5c35bfecac0800000000000000
+      internalID: -3832849895625260184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 299
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2ffbc0e4cf8ada0800000000000000
+      internalID: -5933215096909073714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f050c9f46f93fc0800000000000000
+      internalID: -3514507212405534917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 276
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdc645244bdfa5e0800000000000000
+      internalID: -1896055832370033220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 276
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30019b6210d10ce10800000000000000
+      internalID: 2215802907448119299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 276
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8c25486f8f0ff40800000000000000
+      internalID: 5760377661072525563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 276
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb302969688eab80800000000000000
+      internalID: -8381611870173250620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 276
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b825addbe1c6f6710800000000000000
+      internalID: 1688687264577245835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 276
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eed2a80489b1d6c0800000000000000
+      internalID: -4120308207335579934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 276
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010345dffd8dd9ef0800000000000000
+      internalID: -99685160192823280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 276
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a51b95928db9a430800000000000000
+      internalID: 3794772529589720489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28ebc472e89fe5b0800000000000000
+      internalID: -5336878935021197266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 253
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c255c1e8b115162a0800000000000000
+      internalID: -6746021588034104020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_20
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 253
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825f63c73acbc21e0800000000000000
+      internalID: -2221193105850829528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 253
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068b29777d3e681a0800000000000000
+      internalID: -6807503272160348064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 253
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c308b9176b1f55e80800000000000000
+      internalID: -8190374581411020740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 253
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab6cba3a88e95380800000000000000
+      internalID: -8981892301425185888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 253
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61ab493062725160800000000000000
+      internalID: 7012793327372968302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 253
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee2c175c81d61b0800000000000000
+      internalID: -5661841920238620967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 253
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c53b0f8b2608c4e0800000000000000
+      internalID: -1961310853566614074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1e0afe28e948080800000000000000
+      internalID: -9186043054725733939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 230
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79438411cc1e97340800000000000000
+      internalID: 4862165539302683799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 230
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e07ea9e57f81070800000000000000
+      internalID: 8077477917386804844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 230
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8c7e0900cb8a960800000000000000
+      internalID: 7613541880686954684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 230
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffa9f083d7895f90800000000000000
+      internalID: -6964386006280065029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 230
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26dddaf967c7f480800000000000000
+      internalID: -8865398083461196243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 230
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df34af12448e8fb0800000000000000
+      internalID: -4643628746238836775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 230
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161a4330f950846e0800000000000000
+      internalID: -1853225066151239327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_35
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 230
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7844c7fb6244141b0800000000000000
+      internalID: -5674179122298076025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7a3c8641019b900800000000000000
+      internalID: 700608896875866082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_37
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0528642d5397c000800000000000000
+      internalID: 56175548617467148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_38
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5953a3bb9cc9ed910800000000000000
+      internalID: 1864099686021477781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7434670a7f0dd510800000000000000
+      internalID: 1575432461433975934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a08e0bd51cf9e850800000000000000
+      internalID: 6406929115710914726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_41
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e331172fad35610800000000000000
+      internalID: 1608870226715426430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_42
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c3ee27f6c8bcc80800000000000000
+      internalID: -8301387077829903341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d121c397699918ea0800000000000000
+      internalID: -5872243567556292067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fe909ca880792a0800000000000000
+      internalID: -6730901725910536437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06007f2cb63f2bc30800000000000000
+      internalID: 4373825832288190560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_46
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea0c716749bc7c50800000000000000
+      internalID: 6664405264830827245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_47
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701357c6bc4221f00800000000000000
+      internalID: 1085970916266291463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_48
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bbec1d919515ab0800000000000000
+      internalID: -5021134142112351342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_49
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e588183fd9b407b0800000000000000
+      internalID: -5258874096491919900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_50
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a2cf41e7aca1d00800000000000000
+      internalID: 944289714754300535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_51
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 207
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f8d6508eb616310800000000000000
+      internalID: 1396516003729215354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c74624e7eea5700800000000000000
+      internalID: 529998132216626225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_53
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68842beb23625330800000000000000
+      internalID: 3698127284304382058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_54
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8a574eef3607e10800000000000000
+      internalID: 2193362964935190706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_55
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e57f91679398fa70800000000000000
+      internalID: 8860994545238636009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_56
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f16d0cbf9bfe110800000000000000
+      internalID: 1292456109001809778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_57
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283b8b7ed03c64ab0800000000000000
+      internalID: -5024113869795576958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_58
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e2bb777338c30b0800000000000000
+      internalID: -5747574750176399829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_59
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30333cb331b307730800000000000000
+      internalID: 3994757823270695683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_60
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389141bcb1bf12480800000000000000
+      internalID: -8925576889681831549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_61
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a34cf7900a5dade0800000000000000
+      internalID: -1320300157153295453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_62
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebbd61590830cab0800000000000000
+      internalID: -4989926774454502420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_63
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4436c179564217850800000000000000
+      internalID: 6372914966451479364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_64
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f93f21560ec62b0800000000000000
+      internalID: -5589846312759353497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_65
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781a4711728884b30800000000000000
+      internalID: 4271813947938873735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_66
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777106abef9e0cdd0800000000000000
+      internalID: -2467715315541207177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_67
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532e3e7ce48a882f0800000000000000
+      internalID: -970340663383825867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_68
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14587c86502142e90800000000000000
+      internalID: -7051491302113311423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_69
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 184
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4740afe7061988cb0800000000000000
+      internalID: -4861475954113248140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec27b17b04af09ca0800000000000000
+      internalID: -6012030346682731826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_71
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9360ab279fdab5f00800000000000000
+      internalID: 1106669420332844601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_72
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcfd93c27df4d0d0800000000000000
+      internalID: -3398813149407871753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_73
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1787bbbd9c05ebe60800000000000000
+      internalID: 7979904417652242545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_74
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f12036771f9cb590800000000000000
+      internalID: -7657070343320755720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_75
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cfd214a6d034520800000000000000
+      internalID: 2685004552854174809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_76
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be25ff3b2139be730800000000000000
+      internalID: 4029476000151589611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_77
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457395d20ef2f5410800000000000000
+      internalID: 1467944643426072404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_78
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a624a866e66c8e0800000000000000
+      internalID: -1673528824836232629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_79
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbabd107b374f2a50800000000000000
+      internalID: 6498491107928554172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_80
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48f1ba957a46a000800000000000000
+      internalID: 46806715100952651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_81
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422d34468749e2f20800000000000000
+      internalID: 3399818013510455844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_82
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0854014902431d980800000000000000
+      internalID: -8515968105853205120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_83
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46454b1d3c55a7f20800000000000000
+      internalID: 3421141166466552932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_84
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6aa1c7011605710800000000000000
+      internalID: 1679949384438687448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_85
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 161
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4904dedeb215e80800000000000000
+      internalID: -8191717946322545469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a24715fab92b1f60800000000000000
+      internalID: 8006038645533786790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_87
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 138
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cde24f0846a7f140800000000000000
+      internalID: 4753450760136748483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_88
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 138
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ff23a7f523f5c0800000000000000
+      internalID: -4182957883372079271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_89
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 138
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02281215ef991c60800000000000000
+      internalID: 7789432836713882123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_90
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 138
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c14cd3ccd8c6f610800000000000000
+      internalID: 1654730763609588160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_91
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 138
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47e320bb9c09cc70800000000000000
+      internalID: 8991731993836513102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_92
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 138
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d13909066d40e0800000000000000
+      internalID: -2284057247011974098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_93
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 138
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dac19933674df520800000000000000
+      internalID: 2737422640004319953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_94
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 138
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6298f22ad9567210800000000000000
+      internalID: 1330349533359018607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_95
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 115
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2200cf86b3e7843d0800000000000000
+      internalID: -3222186739754074078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_96
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 115
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98befc3df36bd790800000000000000
+      internalID: -7504294414781597538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_97
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 115
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b04f8da0d2caa00800000000000000
+      internalID: 769039160986307475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_98
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 115
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09704a6049e0664d0800000000000000
+      internalID: -3141807661114980464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_99
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 115
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9dfdfadfd8fc490800000000000000
+      internalID: -7723798715200185878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_100
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 115
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a6d9d3a0c208d50800000000000000
+      internalID: 6737433465041283707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_101
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 115
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75ecd9225a850050800000000000000
+      internalID: 5766166983412082042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_102
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 115
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6681758c50dd98150800000000000000
+      internalID: 5875470205787248742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_103
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 115
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eac7dae2d88b94c0800000000000000
+      internalID: -4279676581421004059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_104
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 115
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3997ac6acfbeb6d70800000000000000
+      internalID: 9037576547611605395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_105
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 115
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cae73bd6765c5680800000000000000
+      internalID: -8765035706285823287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_106
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 115
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00d3a65cc9688880800000000000000
+      internalID: -8608514361370882037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_107
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 115
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91556d3110ab6ee30800000000000000
+      internalID: 4532514588785530137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_108
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 115
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2d5cab61fa51080800000000000000
+      internalID: -9217268550186184024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92fac4085f679660800000000000000
+      internalID: 7392499737180172956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_110
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505a41fa2d96c9c30800000000000000
+      internalID: 4367482092243952901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_111
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fc4334ddb143540800000000000000
+      internalID: 4986641324535238505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_112
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62131c381c5fe2660800000000000000
+      internalID: 7363092652285309222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_113
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8b2d30e91508b00800000000000000
+      internalID: 828752070546995438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_114
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b36cfefd4c74f470800000000000000
+      internalID: 8427497477149320112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_115
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b681da07877cecbc0800000000000000
+      internalID: -3760849318707390357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_116
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b57b6d33a5c6dd0800000000000000
+      internalID: -2491517315150554272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_117
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958fc7799a413b9e0800000000000000
+      internalID: -1606917923417556903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_118
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bb4bb52c2dc32b0800000000000000
+      internalID: -5603372104151680104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_119
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c61fcded4c9ca680800000000000000
+      internalID: -8742440918116788536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_120
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db1d0d326e0e1f40800000000000000
+      internalID: 5701009993391479763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_121
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f55402139e386b0800000000000000
+      internalID: -5295132339653484677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_122
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf2d583ed20dd180800000000000000
+      internalID: -9089105319512166459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_123
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad54463f356704f0800000000000000
+      internalID: -862609481450365535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_124
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3565c73efff0d6e0800000000000000
+      internalID: -1814669182507850436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_125
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e3df4c7012847b0800000000000000
+      internalID: -5239901849192153494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_126
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 92
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d84ad7d3016f5c00800000000000000
+      internalID: 891537920376850648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_127
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 69
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15f33b7907eb1010800000000000000
+      internalID: 1160775356885759259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_128
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 69
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a6d70ebead4bfc0800000000000000
+      internalID: -3479915905432065433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_129
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 69
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d09dfc761a0ed670800000000000000
+      internalID: 8565294633007812819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_130
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 69
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a248b65cac785c0800000000000000
+      internalID: -4213175977120617971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_131
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 69
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac20c2b24fd466660800000000000000
+      internalID: 7378670750584799946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_132
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 69
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344a7fcb39992b1e0800000000000000
+      internalID: -2183514009511680957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_133
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 69
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef59a2d56a0a9ae0800000000000000
+      internalID: -1541908489978683417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_134
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 69
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cd86eae3c4f69a0800000000000000
+      internalID: -6237683126787056603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_135
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 69
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89d4e7a4d56a8c20800000000000000
+      internalID: 3209489648479164813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_136
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 69
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d36983b21fe7cf0800000000000000
+      internalID: -252499361150911171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_137
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 69
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba97f1c35faf1910800000000000000
+      internalID: 1810358349497604789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_138
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 69
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c246fa883318e7170800000000000000
+      internalID: 8178116031687910444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_139
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 69
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e3ac662033e6530800000000000000
+      internalID: 3850070816855834216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_140
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 69
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948857adb145cf1d0800000000000000
+      internalID: -3315682747045541815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_141
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e19b584700070100800000000000000
+      internalID: 74027950153634273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_142
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a7e334bdd3735a0800000000000000
+      internalID: -6541691921797055849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_143
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36569c5c0cab18460800000000000000
+      internalID: 7242275012903265635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_144
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96efd008b784d45f0800000000000000
+      internalID: -770880265943908759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_145
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89c21691e0c58430800000000000000
+      internalID: 3784643136992758159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_146
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34395d144584d9a30800000000000000
+      internalID: 4223611552262361923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_147
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d63574b4752f4900800000000000000
+      internalID: 670796052675507924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_148
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66bab547acbb40a0800000000000000
+      internalID: -6896210977772358035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_149
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9716cd8c7273777c0800000000000000
+      internalID: -4073726693920185991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_150
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee3773a33097a030800000000000000
+      internalID: 3505929386391453411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_151
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090eb00921ca5f9c0800000000000000
+      internalID: -3894017107065839472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_152
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc44a8483e22ccd0800000000000000
+      internalID: -2539416420611765008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_153
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba924e8934fbafa0800000000000000
+      internalID: -5788264368017597772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_154
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 46
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60904252a26ddb30800000000000000
+      internalID: 4313712467394990190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dd104f56ec375f0800000000000000
+      internalID: -760036974814700287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_156
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a7384aeb58b9a20800000000000000
+      internalID: 3070194624833485453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_157
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4220ebc2beb241bb0800000000000000
+      internalID: -4966296200014855644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_158
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a74cb32eac68950800000000000000
+      internalID: 6451066589268965973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_159
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1520cc11ef88bd0800000000000000
+      internalID: -2627571030180081228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_160
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fc54e850c5926b0800000000000000
+      internalID: -5320620305829998698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_161
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff67a12199e7f36b0800000000000000
+      internalID: -5314389839375075585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_162
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d2ed0813d4181c0800000000000000
+      internalID: -4503233277383004848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_163
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cba7db584e16c8c0800000000000000
+      internalID: -3979459924607915069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_164
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a492e35da3bcdf00800000000000000
+      internalID: 1142985962463335593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_165
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58b582ee2c872a60800000000000000
+      internalID: 7649236625108875354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_166
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96d9438aeeb5cb90800000000000000
+      internalID: -7222156512984443234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_167
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851cc16c9e1f81ad0800000000000000
+      internalID: -2731167187646758568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_168
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925245b18a8d13a80800000000000000
+      internalID: -8488765606092069591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_169
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840c1fdd24c7e4760800000000000000
+      internalID: 7444023860723302472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_170
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549a10a6c8b94c650800000000000000
+      internalID: 6252293210073311557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_171
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c91d569f3fdd3e0800000000000000
+      internalID: -2027196004766213020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_172
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 23
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db0e1b4763ea530800000000000000
+      internalID: 3868089004786236820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_173
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f836766e81e4ce9d0800000000000000
+      internalID: -2743732204123757681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_174
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8209af54400ea420800000000000000
+      internalID: 2643050324975747723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_175
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a03b9bbb51521c0800000000000000
+      internalID: -4529189954232579467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_176
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0fb6687906d4480800000000000000
+      internalID: -8913361883584794437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_177
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac6980549495b650800000000000000
+      internalID: 6248063422773685422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_178
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fded798b97c59f630800000000000000
+      internalID: 3961299025106820831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_179
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aec2458dd124fa0800000000000000
+      internalID: -5818054953646888416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_180
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0233696631d061e50800000000000000
+      internalID: 6779620666029519648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_181
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5544b392f94a4110800000000000000
+      internalID: 1245889553130341727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_182
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c289db2541118b2c0800000000000000
+      internalID: -4415760655651596244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_183
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8da0afd7d7211a0800000000000000
+      internalID: -6840266904002963292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_184
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb0a608f8aacb2e0800000000000000
+      internalID: -2108622992204755998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_185
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874aff6342c0eb940800000000000000
+      internalID: 5313697960024843384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower mines_186
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7333013e8de6bd90800000000000000
+      internalID: -7082212169030093955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

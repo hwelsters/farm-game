@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: b0037616c17e2da449086950c155eef7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4201362346318330261
+    second: noManRod_0
+  - first:
+      213: -7502555738740441894
+    second: noManRod_1
+  - first:
+      213: 7677818358778941277
+    second: noManRod_2
+  - first:
+      213: 5242994755755884595
+    second: noManRod_3
+  - first:
+      213: -4232339972280524433
+    second: noManRod_4
+  - first:
+      213: 8884947670560555986
+    second: noManRod_5
+  - first:
+      213: -8082694071081843908
+    second: noManRod_6
+  - first:
+      213: -8516450456925729201
+    second: noManRod_7
+  - first:
+      213: 932156817679548803
+    second: noManRod_8
+  - first:
+      213: 319543549477337779
+    second: noManRod_9
+  - first:
+      213: 5650926269829864241
+    second: noManRod_10
+  - first:
+      213: -4838781700975383457
+    second: noManRod_11
+  - first:
+      213: 8346781916271822802
+    second: noManRod_12
+  - first:
+      213: 5238492683867791777
+    second: noManRod_13
+  - first:
+      213: -1046617812428478337
+    second: noManRod_14
+  - first:
+      213: 345019342815585090
+    second: noManRod_15
+  - first:
+      213: 212286944835133912
+    second: noManRod_16
+  - first:
+      213: 5581004528893006035
+    second: noManRod_17
+  - first:
+      213: 1890332675845729281
+    second: noManRod_18
+  - first:
+      213: 2467591067261927022
+    second: noManRod_19
+  - first:
+      213: -4689983615967580739
+    second: noManRod_20
+  - first:
+      213: -7682082501970647788
+    second: noManRod_21
+  - first:
+      213: 5951330394583302540
+    second: noManRod_22
+  - first:
+      213: -4656674699689617003
+    second: noManRod_23
+  - first:
+      213: 6302265507790736372
+    second: noManRod_0
+  - first:
+      213: -9017140876984740523
+    second: noManRod_1
+  - first:
+      213: -2936620683097493299
+    second: noManRod_2
+  - first:
+      213: 3321890958975233539
+    second: noManRod_3
+  - first:
+      213: 9199024669821060044
+    second: noManRod_4
+  - first:
+      213: -8177455801331937510
+    second: noManRod_5
+  - first:
+      213: -3058214410739299365
+    second: noManRod_6
+  - first:
+      213: 2914540689246023720
+    second: noManRod_7
+  - first:
+      213: -6093473160136012702
+    second: noManRod_8
+  - first:
+      213: -4714850339535855269
+    second: noManRod_9
+  - first:
+      213: 5045851161310570624
+    second: noManRod_10
+  - first:
+      213: -2467865652889937846
+    second: noManRod_11
+  - first:
+      213: -8704151122446897023
+    second: noManRod_12
+  - first:
+      213: -3128856137179507701
+    second: noManRod_13
+  - first:
+      213: 2325592372260149358
+    second: noManRod_14
+  - first:
+      213: -4510162720164698553
+    second: noManRod_15
+  - first:
+      213: -4591270354705439467
+    second: noManRod_16
+  - first:
+      213: 4690356557508805092
+    second: noManRod_17
+  - first:
+      213: -3686783087212653805
+    second: noManRod_18
+  - first:
+      213: -2453186087964235854
+    second: noManRod_19
+  - first:
+      213: 1082578378247880303
+    second: noManRod_20
+  - first:
+      213: -7358420036484222557
+    second: noManRod_21
+  - first:
+      213: 85254825362266622
+    second: noManRod_22
+  - first:
+      213: 9095494038194759955
+    second: noManRod_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 23
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noManRod_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb4018a615267750800000000000000
+      internalID: 6302265507790736372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 90
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5559ba1b52eacd280800000000000000
+      internalID: -9017140876984740523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0b8ef2c070f37d0800000000000000
+      internalID: -2936620683097493299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 90
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eec402a3ab91e20800000000000000
+      internalID: 3321890958975233539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 90
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc34dbcd23089af70800000000000000
+      internalID: 9199024669821060044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 90
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f07235647d38e80800000000000000
+      internalID: -8177455801331937510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb47e0523a0f85d0800000000000000
+      internalID: -3058214410739299365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 60
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8207ee1a057827820800000000000000
+      internalID: 2914540689246023720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c47b90272af6ba0800000000000000
+      internalID: -6093473160136012702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 60
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51e5d6b89c719eb0800000000000000
+      internalID: -4714850339535855269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088a86ba5e6760640800000000000000
+      internalID: 5045851161310570624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 60
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a489b16934160cdd0800000000000000
+      internalID: -2467865652889937846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1803c33bba4a43780800000000000000
+      internalID: -8704151122446897023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 30
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b045d1eabe11494d0800000000000000
+      internalID: -3128856137179507701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e689ce8e0f9264020800000000000000
+      internalID: 2325592372260149358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 30
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746af51e6eea861c0800000000000000
+      internalID: -4510162720164698553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515200020f78840c0800000000000000
+      internalID: -4591270354705439467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 30
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e18c30407e771140800000000000000
+      internalID: 4690356557508805092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31395cac05ae5dcc0800000000000000
+      internalID: -3686783087212653805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b726f2204884fdd0800000000000000
+      internalID: -2453186087964235854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ebbfc9c47160f00800000000000000
+      internalID: 1082578378247880303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1bd31a6f3a1e990800000000000000
+      internalID: -7358420036484222557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef91b1ddfc2ee2100800000000000000
+      internalID: 85254825362266622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManRod_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319284343afa93e70800000000000000
+      internalID: 9095494038194759955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

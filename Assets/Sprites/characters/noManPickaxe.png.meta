@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: ece86f54dd02d69419622ac6119bf26d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3620133302018886669
+    second: noManPickaxe_0
+  - first:
+      213: -4230529099662988225
+    second: noManPickaxe_1
+  - first:
+      213: -6956193524307842426
+    second: noManPickaxe_2
+  - first:
+      213: 3450442273929091037
+    second: noManPickaxe_3
+  - first:
+      213: 657661237000643366
+    second: noManPickaxe_4
+  - first:
+      213: -7475762658544870191
+    second: noManPickaxe_5
+  - first:
+      213: -3500923400229820685
+    second: noManPickaxe_6
+  - first:
+      213: 4922098763138038585
+    second: noManPickaxe_7
+  - first:
+      213: -7862270736994097620
+    second: noManPickaxe_8
+  - first:
+      213: 3728957539475710035
+    second: noManPickaxe_9
+  - first:
+      213: 1328827710582493064
+    second: noManPickaxe_10
+  - first:
+      213: 2473553572204132179
+    second: noManPickaxe_11
+  - first:
+      213: -8343755939981199728
+    second: noManPickaxe_12
+  - first:
+      213: -5629929087037910602
+    second: noManPickaxe_13
+  - first:
+      213: 5333504707309805721
+    second: noManPickaxe_14
+  - first:
+      213: -5372056551734986283
+    second: noManPickaxe_15
+  - first:
+      213: 1124568590734322082
+    second: noManPickaxe_16
+  - first:
+      213: 8789639722244531997
+    second: noManPickaxe_17
+  - first:
+      213: -4733781490575629088
+    second: noManPickaxe_18
+  - first:
+      213: 3401265285064828454
+    second: noManPickaxe_19
+  - first:
+      213: 730491251705293162
+    second: noManPickaxe_20
+  - first:
+      213: 5260633951140518196
+    second: noManPickaxe_21
+  - first:
+      213: 4672052704764684574
+    second: noManPickaxe_22
+  - first:
+      213: -5239575669119660655
+    second: noManPickaxe_23
+  - first:
+      213: -7088690012158509606
+    second: noManPickaxe_0
+  - first:
+      213: 8084286893223597555
+    second: noManPickaxe_1
+  - first:
+      213: 7227705216376905339
+    second: noManPickaxe_2
+  - first:
+      213: -4803514206683625587
+    second: noManPickaxe_3
+  - first:
+      213: -1217402202441183378
+    second: noManPickaxe_4
+  - first:
+      213: -4676449334572231117
+    second: noManPickaxe_5
+  - first:
+      213: 3299297355758496268
+    second: noManPickaxe_6
+  - first:
+      213: -7465908552601123919
+    second: noManPickaxe_7
+  - first:
+      213: 1927728565605791416
+    second: noManPickaxe_8
+  - first:
+      213: -5169700728774138484
+    second: noManPickaxe_9
+  - first:
+      213: -87970216715203483
+    second: noManPickaxe_10
+  - first:
+      213: 5774311073861249879
+    second: noManPickaxe_11
+  - first:
+      213: -1009282453855574829
+    second: noManPickaxe_12
+  - first:
+      213: 4882471510177280770
+    second: noManPickaxe_13
+  - first:
+      213: 9158085635287999866
+    second: noManPickaxe_14
+  - first:
+      213: 8484995877439989749
+    second: noManPickaxe_15
+  - first:
+      213: 5109160638416450662
+    second: noManPickaxe_16
+  - first:
+      213: -4585755191380954717
+    second: noManPickaxe_17
+  - first:
+      213: -3649448859006676944
+    second: noManPickaxe_18
+  - first:
+      213: 6116138944173775451
+    second: noManPickaxe_19
+  - first:
+      213: 9178178686912807220
+    second: noManPickaxe_20
+  - first:
+      213: 6335633842060778301
+    second: noManPickaxe_21
+  - first:
+      213: -8260709903389631427
+    second: noManPickaxe_22
+  - first:
+      213: 4272100773215875764
+    second: noManPickaxe_23
+  - first:
+      213: 6867213209498699761
+    second: noManPickaxe_24
+  - first:
+      213: -7196060602343381539
+    second: noManPickaxe_25
+  - first:
+      213: -4653094682728871293
+    second: noManPickaxe_26
+  - first:
+      213: -5643884054496284441
+    second: noManPickaxe_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 23
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noManPickaxe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cc562de0c4d3230800000000000000
+      internalID: 3620133302018886669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c62aab2342a45c0800000000000000
+      internalID: -4230529099662988225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a22ca58d2a67f90800000000000000
+      internalID: -6956193524307842426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7d88787fe62ef20800000000000000
+      internalID: 3450442273929091037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623a7fd196b702900800000000000000
+      internalID: 657661237000643366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc9d486871c04890800000000000000
+      internalID: -7475762658544870191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6e27757b83a6fc0800000000000000
+      internalID: -3500923400229820685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b7b362fbece4440800000000000000
+      internalID: 4922098763138038585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26a489bb6a93e290800000000000000
+      internalID: -7862270736994097620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350e6f2102befb330800000000000000
+      internalID: 3728957539475710035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f07f823c1f07210800000000000000
+      internalID: 1328827710582493064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35730245ed3d35220800000000000000
+      internalID: 2473553572204132179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0967dd00e26053c80800000000000000
+      internalID: -8343755939981199728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b15770f2597ed1b0800000000000000
+      internalID: -5629929087037910602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990231fe54a640a40800000000000000
+      internalID: 5333504707309805721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9b680570f9275b0800000000000000
+      internalID: -5372056551734986283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9e740dc254b9f00800000000000000
+      internalID: 1124568590734322082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d176c0402c21bf970800000000000000
+      internalID: 8789639722244531997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4abe1a0da3e4eb0800000000000000
+      internalID: -4733781490575629088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626282f81c8b33f20800000000000000
+      internalID: 3401265285064828454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69ac615ce9332a00800000000000000
+      internalID: 730491251705293162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439171fd4b6810940800000000000000
+      internalID: 5260633951140518196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19e66f6e2776d040800000000000000
+      internalID: 4672052704764684574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dc75c70b94947b0800000000000000
+      internalID: -5239575669119660655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f74a0da70e3d4f50800000000000000
+      internalID: 6867213209498699761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5a32f2205722c90800000000000000
+      internalID: -7196060602343381539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38acfa90a03ec6fb0800000000000000
+      internalID: -4653094682728871293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManPickaxe_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0f142ea55eca1b0800000000000000
+      internalID: -5643884054496284441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

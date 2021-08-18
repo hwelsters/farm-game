@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 879d39c8833625d4db6e8511a4a1b4dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1522352065999150712
+    second: noManHoe_0
+  - first:
+      213: 6312411455533756223
+    second: noManHoe_1
+  - first:
+      213: -5791565830257859017
+    second: noManHoe_2
+  - first:
+      213: 4605143536048405729
+    second: noManHoe_3
+  - first:
+      213: -644182499759646197
+    second: noManHoe_4
+  - first:
+      213: 4898226898245354058
+    second: noManHoe_5
+  - first:
+      213: 6991991310463974369
+    second: noManHoe_6
+  - first:
+      213: -641046563722918575
+    second: noManHoe_7
+  - first:
+      213: -8675994343932909981
+    second: noManHoe_8
+  - first:
+      213: -2878295885931884847
+    second: noManHoe_9
+  - first:
+      213: 5772950560148989733
+    second: noManHoe_10
+  - first:
+      213: 3031037645736552317
+    second: noManHoe_11
+  - first:
+      213: -8710528925939803615
+    second: noManHoe_12
+  - first:
+      213: 9071975469115762513
+    second: noManHoe_13
+  - first:
+      213: 8816835890045148077
+    second: noManHoe_14
+  - first:
+      213: 3300367151196767696
+    second: noManHoe_15
+  - first:
+      213: 5983438861482238857
+    second: noManHoe_16
+  - first:
+      213: -8651497686399677278
+    second: noManHoe_17
+  - first:
+      213: 187984147064909811
+    second: noManHoe_18
+  - first:
+      213: -2941894094849046387
+    second: noManHoe_19
+  - first:
+      213: 6910433608476664544
+    second: noManHoe_20
+  - first:
+      213: 108596840190023845
+    second: noManHoe_21
+  - first:
+      213: 1656814598322206218
+    second: noManHoe_22
+  - first:
+      213: -1339672855859451610
+    second: noManHoe_23
+  - first:
+      213: 2421251516811784344
+    second: noManHoe_0
+  - first:
+      213: 7585233596529432556
+    second: noManHoe_1
+  - first:
+      213: -2519288183708039273
+    second: noManHoe_2
+  - first:
+      213: 2731548994712334675
+    second: noManHoe_3
+  - first:
+      213: -331282257808987249
+    second: noManHoe_4
+  - first:
+      213: 4144619740347415479
+    second: noManHoe_5
+  - first:
+      213: 9077144726962899033
+    second: noManHoe_6
+  - first:
+      213: -348470720048686966
+    second: noManHoe_7
+  - first:
+      213: 6583864347941926908
+    second: noManHoe_8
+  - first:
+      213: -366250089772128611
+    second: noManHoe_9
+  - first:
+      213: 7504369551923940083
+    second: noManHoe_10
+  - first:
+      213: 3292421358836236597
+    second: noManHoe_11
+  - first:
+      213: -4029409262782588844
+    second: noManHoe_12
+  - first:
+      213: -2625360911620402250
+    second: noManHoe_13
+  - first:
+      213: -3491867642310408004
+    second: noManHoe_14
+  - first:
+      213: 6658183024370626379
+    second: noManHoe_15
+  - first:
+      213: -2694359065525122440
+    second: noManHoe_16
+  - first:
+      213: 7341759964445035548
+    second: noManHoe_17
+  - first:
+      213: -1349832984654045778
+    second: noManHoe_18
+  - first:
+      213: 3652302402278478648
+    second: noManHoe_19
+  - first:
+      213: 6910865367819157329
+    second: noManHoe_20
+  - first:
+      213: 4976245412183148115
+    second: noManHoe_21
+  - first:
+      213: -1907173682913574918
+    second: noManHoe_22
+  - first:
+      213: 7041478653118260223
+    second: noManHoe_23
+  - first:
+      213: -7450526832474151373
+    second: noManHoe_24
+  - first:
+      213: -8555807545778429770
+    second: noManHoe_25
+  - first:
+      213: -7052744366646456596
+    second: noManHoe_26
+  - first:
+      213: -6885194889695780496
+    second: noManHoe_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 23
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noManHoe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881e90b9cd48fdae0800000000000000
+      internalID: -1522352065999150712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f223336c03a9750800000000000000
+      internalID: 6312411455533756223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736a03aff8930afa0800000000000000
+      internalID: -5791565830257859017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecf9dd95a1c8ef30800000000000000
+      internalID: 4605143536048405729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a9d43fd676f07f0800000000000000
+      internalID: -644182499759646197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a428d2b796ff9f340800000000000000
+      internalID: 4898226898245354058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebb2dc3d0b880160800000000000000
+      internalID: 6991991310463974369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1558fc4fb8b8a17f0800000000000000
+      internalID: -641046563722918575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366a4909c1da89780800000000000000
+      internalID: -8675994343932909981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1decf80442d3e08d0800000000000000
+      internalID: -2878295885931884847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527a293b2f3ad1050800000000000000
+      internalID: 5772950560148989733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77a6fefda8601a20800000000000000
+      internalID: 3031037645736552317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ad79b971cfd1780800000000000000
+      internalID: -8710528925939803615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157e3bfaf9126ed70800000000000000
+      internalID: 9071975469115762513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab5e054781bb5a70800000000000000
+      internalID: 8816835890045148077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5837b10724dcd20800000000000000
+      internalID: 3300367151196767696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983aae161f1790350800000000000000
+      internalID: 5983438861482238857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac880b11b4bfe780800000000000000
+      internalID: -8651497686399677278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff6535f59adb9200800000000000000
+      internalID: 187984147064909811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8804b558ea4c27d0800000000000000
+      internalID: -2941894094849046387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e22c2df0cac6ef50800000000000000
+      internalID: 6910433608476664544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a891433040d18100800000000000000
+      internalID: 108596840190023845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a063da759103ef610800000000000000
+      internalID: 1656814598322206218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629a34fa2a6886de0800000000000000
+      internalID: -1339672855859451610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336acd802596a9890800000000000000
+      internalID: -7450526832474151373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b025432e5aa34980800000000000000
+      internalID: -8555807545778429770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee86669d5e9f1e90800000000000000
+      internalID: -7052744366646456596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManHoe_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07129562abfd270a0800000000000000
+      internalID: -6885194889695780496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

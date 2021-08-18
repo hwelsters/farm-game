@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: 2f9f4b342c74aec49bf228c27099675e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - Emma-Emma.Introduction-0
+  - Emma-Emma.Introduction-1
+  - Emma-Emma.Spring.Dialog.2-2
+  - Emma-Emma.Spring.Dialog.1-3
+  - Emma-Emma.Spring.Dialog.3-4
+  - Emma-Emma.Spring.Dialog.3-5
+  - Emma-Emma.Spring.Dialog.4-6
+  - Emma-Emma.Spring.Dialog.5-7
+  - Emma-Emma.Spring.Dialog.5-8
+  - Emma-Emma.Spring.Dialog.6-9
+  - Emma-Emma.Spring.Dialog.7-10
+  - Emma-Emma.Spring.Dialog.7-11
+  - Emma-Emma.Spring.Dialog.8-12
+  - Emma-Emma.Spring.Dialog.8-13
+  - Emma-Emma.Spring.Dialog.8-14
+  - Emma-Emma.Spring.Dialog.8-15
+  - Emma-Emma.Spring.Dialog.9-16
+  - Emma-Emma.Spring.Dialog.9-17
+  - Emma-Emma.Love-18
+  - Emma-Emma.Like-19
+  - Emma-Emma.Neutral-20
+  - Emma-Emma.Dislike-21
+  - Emma-Emma.Hate-22
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 2f9f4b342c74aec49bf228c27099675e,
+    type: 3}
+  localizations: []

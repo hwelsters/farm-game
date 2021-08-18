@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: f3871e14652973444b757bccdbf73038
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4557733343604600498
+    second: noManAxe_0
+  - first:
+      213: -6975728575933494686
+    second: noManAxe_1
+  - first:
+      213: -3498846387174967897
+    second: noManAxe_2
+  - first:
+      213: 7690209140589769820
+    second: noManAxe_3
+  - first:
+      213: 1362682604273431955
+    second: noManAxe_4
+  - first:
+      213: 8032234224738057095
+    second: noManAxe_5
+  - first:
+      213: 5627615414974764861
+    second: noManAxe_6
+  - first:
+      213: 3876585236606477097
+    second: noManAxe_7
+  - first:
+      213: 5797509774115959079
+    second: noManAxe_8
+  - first:
+      213: -5607579726250683421
+    second: noManAxe_9
+  - first:
+      213: 8590400877515586678
+    second: noManAxe_10
+  - first:
+      213: 7384371528867332881
+    second: noManAxe_11
+  - first:
+      213: -2635610885813761153
+    second: noManAxe_12
+  - first:
+      213: 5982998178122927097
+    second: noManAxe_13
+  - first:
+      213: -8114016705096905408
+    second: noManAxe_14
+  - first:
+      213: -5162386684335803502
+    second: noManAxe_15
+  - first:
+      213: -5837678137676515198
+    second: noManAxe_16
+  - first:
+      213: -6707598142507529702
+    second: noManAxe_17
+  - first:
+      213: 4567627567475977880
+    second: noManAxe_18
+  - first:
+      213: -4695069000654272065
+    second: noManAxe_19
+  - first:
+      213: -405659056808357216
+    second: noManAxe_20
+  - first:
+      213: 1075106770001914693
+    second: noManAxe_21
+  - first:
+      213: -1409827631185252723
+    second: noManAxe_22
+  - first:
+      213: 3237864947307565663
+    second: noManAxe_23
+  - first:
+      213: -4889802248118469334
+    second: noManAxe_24
+  - first:
+      213: -5445175546494531028
+    second: noManAxe_25
+  - first:
+      213: 341012442265139004
+    second: noManAxe_26
+  - first:
+      213: 5076708157769402296
+    second: noManAxe_27
+  - first:
+      213: 4243712183460031419
+    second: noManAxe_28
+  - first:
+      213: 6635730138630262499
+    second: noManAxe_29
+  - first:
+      213: -6710776876048994432
+    second: noManAxe_0
+  - first:
+      213: 8541851161555696840
+    second: noManAxe_1
+  - first:
+      213: 5985257771208683183
+    second: noManAxe_2
+  - first:
+      213: -4453399975153440744
+    second: noManAxe_3
+  - first:
+      213: -2169185440476307486
+    second: noManAxe_4
+  - first:
+      213: -2090396708433226120
+    second: noManAxe_5
+  - first:
+      213: -1006985924034116059
+    second: noManAxe_6
+  - first:
+      213: 4316676114870704739
+    second: noManAxe_7
+  - first:
+      213: 5124314600773593375
+    second: noManAxe_8
+  - first:
+      213: -3359401786054648482
+    second: noManAxe_9
+  - first:
+      213: 6911053731730654403
+    second: noManAxe_10
+  - first:
+      213: -8079978538762774975
+    second: noManAxe_11
+  - first:
+      213: -4795238792633629543
+    second: noManAxe_12
+  - first:
+      213: 8112983983329372637
+    second: noManAxe_13
+  - first:
+      213: -376202150295891784
+    second: noManAxe_14
+  - first:
+      213: -5744411798336962540
+    second: noManAxe_15
+  - first:
+      213: -899788381442244502
+    second: noManAxe_16
+  - first:
+      213: -5959390423185357765
+    second: noManAxe_17
+  - first:
+      213: 109891700350476172
+    second: noManAxe_18
+  - first:
+      213: -2202032209847498305
+    second: noManAxe_19
+  - first:
+      213: -7635057185161717567
+    second: noManAxe_20
+  - first:
+      213: -3230384575489814817
+    second: noManAxe_21
+  - first:
+      213: 8583520606988506164
+    second: noManAxe_22
+  - first:
+      213: -5213799850569849357
+    second: noManAxe_23
+  - first:
+      213: 8340680876779579144
+    second: noManAxe_24
+  - first:
+      213: -7598947750902015688
+    second: noManAxe_25
+  - first:
+      213: -8637314722852185092
+    second: noManAxe_26
+  - first:
+      213: 6916367451401197228
+    second: noManAxe_27
+  - first:
+      213: 7684265700317719220
+    second: noManAxe_28
+  - first:
+      213: 169490769409479783
+    second: noManAxe_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 23
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noManAxe_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a29403bc3fce5af0800000000000000
+      internalID: -405659056808357216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54be49149eb8bee00800000000000000
+      internalID: 1075106770001914693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e2ca03d394f6ce0800000000000000
+      internalID: -1409827631185252723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e419e710cadafb0c0800000000000000
+      internalID: -4557733343604600498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a41f5b1db313f90800000000000000
+      internalID: -6975728575933494686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5f6c0afb9917fc0800000000000000
+      internalID: -3498846387174967897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54b059087c19ba60800000000000000
+      internalID: 7690209140589769820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3957259db9839e210800000000000000
+      internalID: 1362682604273431955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b3f36887a387f60800000000000000
+      internalID: 8032234224738057095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 147
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37551e476e491e40800000000000000
+      internalID: 5627615414974764861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923e371dbb56cc530800000000000000
+      internalID: 3876585236606477097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721790c4c64e47050800000000000000
+      internalID: 5797509774115959079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3552ff2ffdd22b0800000000000000
+      internalID: -5607579726250683421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c358e851c373770800000000000000
+      internalID: 8590400877515586678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11345ab08ce8a7660800000000000000
+      internalID: 7384371528867332881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b0be80ddd6c6bd0800000000000000
+      internalID: -2635610885813761153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 98
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb83dac421e70350800000000000000
+      internalID: 5982998178122927097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d0d1febc8356f80800000000000000
+      internalID: -8114016705096905408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29335fe79a48b58b0800000000000000
+      internalID: -5162386684335803502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2883ab2c9a66cfea0800000000000000
+      internalID: -5837678137676515198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ac4cb1703d9e2a0800000000000000
+      internalID: -6707598142507529702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eefa18219736f30800000000000000
+      internalID: 4567627567475977880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 49
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9cd049e93c7deb0800000000000000
+      internalID: -4695069000654272065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52d4feb3053fec20800000000000000
+      internalID: 3237864947307565663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dfdfa33cee32cb0800000000000000
+      internalID: -4889802248118469334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2acc83b0b9de64b0800000000000000
+      internalID: -5445175546494531028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37b33d62058bb400800000000000000
+      internalID: 341012442265139004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noManAxe_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b74c240c27147640800000000000000
+      internalID: 5076708157769402296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

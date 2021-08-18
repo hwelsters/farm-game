@@ -1,0 +1,134 @@
+title: Emma.Introduction
+tags: 
+colorID: 0
+position: 212,-428
+---
+<<SetSpeaker Emma happy>>
+Hello, I'm Emma. Nice to meet you!
+See you around!
+===
+title: Emma.Spring.Dialog.2
+tags: 
+colorID: 0
+position: 529,-207
+---
+<<SetSpeaker Emma happy>>
+Hello, the weather's great today, isn't it?
+===
+title: Emma.Spring.Dialog.1
+tags: 
+colorID: 0
+position: 524,-433
+---
+<<SetSpeaker Emma smile>>
+Hey, how's it going?
+===
+title: Emma.Spring.Dialog.3
+tags: 
+colorID: 0
+position: 737,-430
+---
+<<SetSpeaker Emma crying>>
+It's really hot today
+<<SetSpeaker Emma pleased>>
+On days like these I like to take long and nice warm baths
+===
+title: Emma.Spring.Dialog.4
+tags: 
+colorID: 0
+position: 753,-204
+---
+<<SetSpeaker Emma happy>>
+The flowers look really pretty in spring don't they?
+===
+title: Emma.Spring.Dialog.5
+tags: 
+colorID: 0
+position: 964,-433
+---
+<<SetSpeaker Emma happy>>
+Oh hey, taking a break from work?
+It's important to take a break every now and then
+===
+title: Emma.Spring.Dialog.6
+tags: 
+colorID: 0
+position: 965,-205
+---
+<<SetSpeaker Emma pleased>>
+Grandma's baking bread today
+===
+title: Emma.Spring.Dialog.7
+tags: 
+colorID: 0
+position: 528,4
+---
+<< SetSpeaker Emma furious>> 
+I love spring but these mosquitoes are so annoying
+<< SetSpeaker Emma suspicious>>
+I've got my eyes on you, you darn bugs!
+===
+title: Emma.Spring.Dialog.8
+tags: 
+colorID: 0
+position: 748,14
+---
+<< SetSpeaker Emma happy >>
+Grandma made some toast today!
+<< SetSpeaker Emma pleased >>
+It tasted really good
+<<SetSpeaker Emma surprised>>
+No I don't have any more to share with you...
+<<SetSpeaker Emma crying>>
+Because I ate them all
+===
+title: Emma.Spring.Dialog.9
+tags: 
+colorID: 0
+position: 965,6
+---
+<< SetSpeaker Emma serious>>
+I don't know why but my coffee tasted really salty today
+<< SetSpeaker Emma crying>>
+I added more sugar but it only made it saltier
+===
+title: Emma.Love
+tags: 
+colorID: 0
+position: 1208,-436
+---
+<<SetSpeaker Emma crying>>
+Thank you so much! I really wanted this!
+===
+title: Emma.Like
+tags: 
+colorID: 0
+position: 1216,-208
+---
+<<SetSpeaker Emma smile>>
+This is great!
+===
+title: Emma.Neutral
+tags: 
+colorID: 0
+position: 1429,-443
+---
+<<SetSpeaker Emma>>
+Thanks!
+===
+title: Emma.Dislike
+tags: 
+colorID: 0
+position: 1449,-210
+---
+<<SetSpeaker Emma confused>>
+Err...thanks?
+===
+title: Emma.Hate
+tags: 
+colorID: 0
+position: 1662,-447
+---
+<<SetSpeaker Emma furious>>
+Why are you giving me trash?!
+===

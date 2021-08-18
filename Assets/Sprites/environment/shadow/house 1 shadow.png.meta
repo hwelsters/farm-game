@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: dc9efde33162072408ab02fe60182607
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8420426646339935551
+    second: house 1 shadow_0
+  - first:
+      213: 3153338635081541072
+    second: house 1 shadow_1
+  - first:
+      213: -8971037167951799737
+    second: house 1 shadow_2
+  - first:
+      213: -1971415419808504292
+    second: house 1 shadow_3
+  - first:
+      213: 8106625285312106345
+    second: house 1 shadow_4
+  - first:
+      213: -1497665912789670391
+    second: house 1 shadow_5
+  - first:
+      213: -6101272826373354435
+    second: house 1 shadow_6
+  - first:
+      213: -546516204932587961
+    second: house 1 shadow_7
+  - first:
+      213: -7546475314752454052
+    second: house 1 shadow_8
+  - first:
+      213: 5159161866819633285
+    second: house 1 shadow_9
+  - first:
+      213: -8738242742204315001
+    second: house 1 shadow_10
+  - first:
+      213: -8916751061761588889
+    second: house 1 shadow_11
+  - first:
+      213: -2185862662469907502
+    second: house 1 shadow_12
+  - first:
+      213: 495969152683371792
+    second: house 1 shadow_13
+  - first:
+      213: -5870634136364183049
+    second: house 1 shadow_14
+  - first:
+      213: -3926556550820693316
+    second: house 1 shadow_15
+  - first:
+      213: 5006499574057389345
+    second: house 1 shadow_16
+  - first:
+      213: 3074443966535205680
+    second: house 1 shadow_17
+  - first:
+      213: 880591034676366023
+    second: house 1 shadow_18
+  - first:
+      213: 2147319453694921872
+    second: house 1 shadow_19
+  - first:
+      213: 43569582185693713
+    second: house 1 shadow_20
+  - first:
+      213: 3654722573528924032
+    second: house 1 shadow_21
+  - first:
+      213: -3490465569776809908
+    second: house 1 shadow_22
+  - first:
+      213: 6273360546218449815
+    second: house 1 shadow_0
+  - first:
+      213: 5804079739508706644
+    second: house 1 shadow_1
+  - first:
+      213: -1418231030252884876
+    second: house 1 shadow_2
+  - first:
+      213: 1080321089729166427
+    second: house 1 shadow_3
+  - first:
+      213: 2430555381665795663
+    second: house 1 shadow_4
+  - first:
+      213: -6598530650046123394
+    second: house 1 shadow_5
+  - first:
+      213: -8183918107287377868
+    second: house 1 shadow_6
+  - first:
+      213: 4253885550156086938
+    second: house 1 shadow_7
+  - first:
+      213: 4849152228253408051
+    second: house 1 shadow_8
+  - first:
+      213: -4186249638740707480
+    second: house 1 shadow_9
+  - first:
+      213: 3275220981007528525
+    second: house 1 shadow_10
+  - first:
+      213: 8453450356318432362
+    second: house 1 shadow_11
+  - first:
+      213: 6540198927431189461
+    second: house 1 shadow_12
+  - first:
+      213: 535319189625372380
+    second: house 1 shadow_13
+  - first:
+      213: -2468447987089007637
+    second: house 1 shadow_14
+  - first:
+      213: -4699006349780394366
+    second: house 1 shadow_15
+  - first:
+      213: -3360573388909460264
+    second: house 1 shadow_16
+  - first:
+      213: -4398904997158254924
+    second: house 1 shadow_17
+  - first:
+      213: -1345015648329238604
+    second: house 1 shadow_18
+  - first:
+      213: -8395975191470562593
+    second: house 1 shadow_19
+  - first:
+      213: 4619344807174047994
+    second: house 1 shadow_20
+  - first:
+      213: 336204536577074933
+    second: house 1 shadow_21
+  - first:
+      213: 8440997183094138732
+    second: house 1 shadow_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 23
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: house 1 shadow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b1d49dd247f0750800000000000000
+      internalID: 6273360546218449815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 52
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d457195cb3c8050800000000000000
+      internalID: 5804079739508706644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 52
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c2750646e615ce0800000000000000
+      internalID: -1418231030252884876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 52
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c7bacae421efe00800000000000000
+      internalID: 1080321089729166427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 52
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e8a13fd311bb120800000000000000
+      internalID: 2430555381665795663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 52
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e723974955f4d64a0800000000000000
+      internalID: -6598530650046123394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 52
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438af3877d1ec6e80800000000000000
+      internalID: -8183918107287377868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 52
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e783cae56d80b30800000000000000
+      internalID: 4253885550156086938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b96da7246ab4340800000000000000
+      internalID: 4849152228253408051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 29
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867b0cd122477e5c0800000000000000
+      internalID: -4186249638740707480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 29
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d423cdd112ce37d20800000000000000
+      internalID: 3275220981007528525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 29
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c62ce8f40b05570800000000000000
+      internalID: 8453450356318432362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 29
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d34de5e54473ca50800000000000000
+      internalID: 6540198927431189461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 29
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdef11b77f5dd6700800000000000000
+      internalID: 535319189625372380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 29
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb180752af4ebdd0800000000000000
+      internalID: -2468447987089007637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 29
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed80c0f96c9ceb0800000000000000
+      internalID: -4699006349780394366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4cb60de48dc51d0800000000000000
+      internalID: -3360573388909460264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b601b32633f3f2c0800000000000000
+      internalID: -4398904997158254924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 6
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b77effd46b855de0800000000000000
+      internalID: -1345015648329238604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 6
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2a7611c018b7b80800000000000000
+      internalID: -8395975191470562593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 6
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af887a6b0a53b1040800000000000000
+      internalID: 4619344807174047994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 6
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f62d86ae307aa400800000000000000
+      internalID: 336204536577074933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1 shadow_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6726683732742570800000000000000
+      internalID: 8440997183094138732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

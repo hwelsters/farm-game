@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: fd10ac8507a3435409f749ca8c701fdf
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - Mitchell-Mitchell.Introduction-0
+  - Mitchell-Mitchell.Spring.Dialog.1-1
+  - Mitchell-Mitchell.Spring.Dialog.1-2
+  - Mitchell-Mitchell.Spring.Dialog.2-3
+  - Mitchell-Mitchell.Spring.Dialog.2-4
+  - Mitchell-Mitchell.Spring.Dialog.3-5
+  - Mitchell-Mitchell.Spring.Dialog.3-6
+  - Mitchell-Mitchell.Spring.Dialog.3-7
+  - Mitchell-Mitchell.Spring.Dialog.4-8
+  - Mitchell-Mitchell.Spring.Dialog.4-9
+  - Mitchell-Mitchell.Spring.Dialog.5-10
+  - Mitchell-Mitchell.Spring.Dialog.5-11
+  - Mitchell-Mitchell.Spring.Dialog.6-12
+  - Mitchell-Mitchell.Spring.Dialog.6-13
+  - Mitchell-Mitchell.Spring.Dialog.7-14
+  - Mitchell-Mitchell.Spring.Dialog.8-15
+  - Mitchell-Mitchell.Spring.Dialog.8-16
+  - Mitchell-Mitchell.Spring.Dialog.9-17
+  - Mitchell-Mitchell.Love-18
+  - Mitchell-Mitchell.Like-19
+  - Mitchell-Mitchell.Neutral-20
+  - Mitchell-Mitchell.Dislike-21
+  - Mitchell-Mitchell.Hate-22
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: fd10ac8507a3435409f749ca8c701fdf,
+    type: 3}
+  localizations: []

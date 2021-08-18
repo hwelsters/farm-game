@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7ffe0041a4c8f646a6c6fd439a9ba9c, type: 3}
+  m_Name: Emma
+  m_EditorClassIdentifier: 
+  speakerName: Emma
+  NPCPortraits:
+  - {fileID: -8645429173752167739, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}
+  - {fileID: 3567123217797088880, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}
+  - {fileID: -6781364165672659681, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}
+  - {fileID: -7307065792478546277, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}
+  - {fileID: -7590838812110934408, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}
+  - {fileID: -6896347979073715453, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}
+  - {fileID: -5373246608172113107, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}
+  - {fileID: -7687117755557121255, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}
+  - {fileID: 2192019458736216524, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}
+  - {fileID: 5116972745792708766, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}
+  - {fileID: 1399625569573256384, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}
+  - {fileID: -3557121669102478106, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}
+  - {fileID: 5166897402286919269, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}
+  - {fileID: -1449898578035251616, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}
+  - {fileID: -4417229825841150102, guid: f8fb954c7a133a64287cd5231a62ce42, type: 3}

@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 844be3c080cd33b47b20c07c890bd84e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - Jasmine-Jasmine.Introduction-0
+  - Jasmine-Jasmine.Spring.Dialog.1-1
+  - Jasmine-Jasmine.Spring.Dialog.2-2
+  - Jasmine-Jasmine.Spring.Dialog.2-3
+  - Jasmine-Jasmine.Love-4
+  - Jasmine-Jasmine.Love-5
+  - Jasmine-Jasmine.Like-6
+  - Jasmine-Jasmine.Neutral-7
+  - Jasmine-Jasmine.Dislike-8
+  - Jasmine-Jasmine.Trash-9
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 844be3c080cd33b47b20c07c890bd84e,
+    type: 3}
+  localizations: []
