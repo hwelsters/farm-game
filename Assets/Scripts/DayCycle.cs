@@ -77,12 +77,12 @@ public class DayCycle : MonoBehaviour
 
         InitializeList();
 
-        NewDay();
-
         if (newGame)
         {
             NewGame();
         }
+        
+        NewDay();
     }
 
     IEnumerator Cycle()
@@ -188,6 +188,13 @@ public class DayCycle : MonoBehaviour
             Rain();
         }
         SwitchToDay();
+        
+        GameObject[] npcs = GameObject.FindGameObjectsWithTag("NPC");
+        foreach(GameObject npc in npcs)
+        {
+            PathController pathController = npc.GetComponent<PathController>();
+            if (pathController != null) pathController.NewDay();
+        }
     }
 
     void Rain()

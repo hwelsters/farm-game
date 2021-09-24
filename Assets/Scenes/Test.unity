@@ -12555,7 +12555,7 @@ GameObject:
   - component: {fileID: 616626266}
   m_Layer: 0
   m_Name: Jasmine
-  m_TagString: Untagged
+  m_TagString: NPC
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41183,6 +41183,66 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5267320800374240062, guid: 36bd09b4a1e55e14684a9d80e42a4738,
         type: 3}
+      propertyPath: itemDescriptions.Array.data[501]
+      value: It's the sun. On a plate.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5267320800374240062, guid: 36bd09b4a1e55e14684a9d80e42a4738,
+        type: 3}
+      propertyPath: itemDescriptions.Array.data[502]
+      value: The average scrambled egg. Nothing to see here.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5267320800374240062, guid: 36bd09b4a1e55e14684a9d80e42a4738,
+        type: 3}
+      propertyPath: itemDescriptions.Array.data[503]
+      value: Vegetables but they're not cooked.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5267320800374240062, guid: 36bd09b4a1e55e14684a9d80e42a4738,
+        type: 3}
+      propertyPath: itemDescriptions.Array.data[504]
+      value: It's a fish! It's still alive.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5267320800374240062, guid: 36bd09b4a1e55e14684a9d80e42a4738,
+        type: 3}
+      propertyPath: itemDescriptions.Array.data[505]
+      value: Baked dough. It's delicious.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5267320800374240062, guid: 36bd09b4a1e55e14684a9d80e42a4738,
+        type: 3}
+      propertyPath: itemDescriptions.Array.data[506]
+      value: Water.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5267320800374240062, guid: 36bd09b4a1e55e14684a9d80e42a4738,
+        type: 3}
+      propertyPath: itemDescriptions.Array.data[507]
+      value: Long lines of dough boiled to perfection.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5267320800374240062, guid: 36bd09b4a1e55e14684a9d80e42a4738,
+        type: 3}
+      propertyPath: itemDescriptions.Array.data[508]
+      value: The humble pancake. Despite its humility, it is rich in nutrients.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5267320800374240062, guid: 36bd09b4a1e55e14684a9d80e42a4738,
+        type: 3}
+      propertyPath: itemDescriptions.Array.data[509]
+      value: Pie with mysterious filling.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5267320800374240062, guid: 36bd09b4a1e55e14684a9d80e42a4738,
+        type: 3}
+      propertyPath: itemDescriptions.Array.data[510]
+      value: It's Taco day every day.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5267320800374240062, guid: 36bd09b4a1e55e14684a9d80e42a4738,
+        type: 3}
+      propertyPath: itemDescriptions.Array.data[511]
+      value: Soup. Yes, it's soup.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5267320800374240062, guid: 36bd09b4a1e55e14684a9d80e42a4738,
+        type: 3}
+      propertyPath: itemDescriptions.Array.data[512]
+      value: A cup of coffee will bring a spring to your step.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5267320800374240062, guid: 36bd09b4a1e55e14684a9d80e42a4738,
+        type: 3}
       propertyPath: itemDescriptions.Array.data[701]
       value: Waters the four adjacent tiles each morning
       objectReference: {fileID: 0}
@@ -58681,7 +58741,7 @@ GameObject:
   - component: {fileID: 1524294000}
   m_Layer: 0
   m_Name: Agatha
-  m_TagString: Untagged
+  m_TagString: NPC
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -84589,7 +84649,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   shopStocks:
   - itemsSold: 2d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000
-    itemsCost: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    itemsCost: 1e000000320000002800000019000000280000003c000000320000001e0000001e000000140000000a000000320000001e000000140000000a0000000a0000003c0000001e0000003c0000001e000000280000003c00000046000000280000001e000000280000001e00000032000000
   shopTable: {fileID: 797103434}
   shopUI: {fileID: 202188302}
 --- !u!61 &2011509694

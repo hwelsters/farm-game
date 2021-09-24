@@ -78,7 +78,8 @@ public class PathController : MonoBehaviour
 
     private float currentSpeed = 0.5f;
 
-    private Animator animator;
+    private Animator animator; 
+    private Coroutine moveCoroutine;
 
     private void Start()
     {
@@ -91,8 +92,16 @@ public class PathController : MonoBehaviour
         if (!walkInProgress && currentTimeChunk < GetChunkCount())
         {
             walkInProgress = true;
-            StartCoroutine(Move());
+            moveCoroutine = StartCoroutine(Move());
         }
+    }
+
+    public void NewDay()
+    {
+        StopCoroutine(moveCoroutine);
+        currentTimeChunk = 0;
+        transform.position = GetStartPosition();
+        moveCoroutine = StartCoroutine(Move());
     }
 
     private IEnumerator Move()
